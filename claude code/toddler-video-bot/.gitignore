@@ -1,0 +1,7 @@
+client_secrets.json
+youtube_token.json
+tiktok_token.json
+temp/
+output/
+__pycache__/
+*.pyc
